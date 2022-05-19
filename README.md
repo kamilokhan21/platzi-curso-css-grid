@@ -8,4 +8,5 @@ Proyecto CSS Grid 1. Página web de restaurante
 --Tercer paso: Realizar parte 1
 --Cuarto paso: Realizar parte 2
 --Quinto paso: Realizar parte 3
+--Sexto paso: Hacer responsive el proyecto
 
